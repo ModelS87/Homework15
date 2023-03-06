@@ -1,9 +1,9 @@
 public class Slizerin extends Hogwards {
-    public int cunning;
-    public int determination;
-    public int ambition;
-    public int ingenuity;
-    public int thirstForPower;
+    private int cunning;
+    private int determination;
+    private int ambition;
+    private int ingenuity;
+    private int thirstForPower;
 
     public Slizerin(String name,
                     int magic,

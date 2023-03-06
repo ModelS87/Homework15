@@ -1,7 +1,7 @@
 public abstract class Hogwards {
     private String name;
-    int magic;
-    int transgenerate;
+    private int magic;
+    private int transgenerate;
 
     public Hogwards(String name, int magic, int transgenerate) {
         this.name = name;
